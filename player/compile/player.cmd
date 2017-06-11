@@ -1,0 +1,1 @@
+-w -s "c:\My_Designs\RGZ_Player\library.cfg"  -j "c:\My_Designs\RGZ_Player\player\projlib.cfg"  -d "c:\My_Designs\RGZ_Player\player\compile"   -work player  -O3 -e 100 -2002 "c:\My_Designs\RGZ_Player\player\src\player_beh.vhd" "c:\My_Designs\RGZ_Player\player\src\TestBench\player_TB.vhd"

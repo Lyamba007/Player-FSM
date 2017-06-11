@@ -1,0 +1,12 @@
+[Version]
+Version=9.1
+[Designs]
+player=.\player\player.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
+[Expand]
+player=1
