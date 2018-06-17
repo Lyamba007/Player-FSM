@@ -1,6 +1,6 @@
-1651
+1674
 ~E 1 "./src/player_beh.vhd" 2 player
 ~A 1 "./src/player_beh.vhd" 8 workmode
 ~E 1 "./src/TestBench/player_TB.vhd" 6 player_tb
 ~A 1 "./src/TestBench/player_TB.vhd" 9 TB_ARCHITECTURE
-~C 1 "./src/TestBench/player_TB.vhd" 79 testbench_for_player
+~C 1 "./src/TestBench/player_TB.vhd" 77 testbench_for_player

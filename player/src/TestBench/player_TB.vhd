@@ -23,8 +23,6 @@ architecture TB_ARCHITECTURE of player_tb is
 	-- Observed signals - signals mapped to the output ports of tested entity
 	signal y : STD_LOGIC_VECTOR(1 to 4);
 	
-	-- Add your code here ...
-	
 begin
 	
 	-- Unit Under Test port map

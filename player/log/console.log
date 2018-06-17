@@ -1,2 +1,28 @@
 # ELBREAD: Elaboration process.
 # ELBREAD: Elaboration time 0.0 [s].
+asim -O5 +access +r +m+player_tb player_tb TB_ARCHITECTURE
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.1 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6010 kB (elbread=1023 elab2=4895 kernel=90 sdf=0)
+# KERNEL: ASDB file was created in location I:\УЧЁБА и Документы\Git_projects\PlayerFSM\player\src\wave.asdb
+#  10:50, 17 июня 2018 г.
+#  Simulation has been initialized
+#  Selected Top-Level: player_tb (TB_ARCHITECTURE)
+# 4 signal(s) traced.
+# Error: Database file I:/УЧЁБА и Документы/Git_projects/PlayerFSM/player/src/wave.asdb cannot be found.
+# Error: Cannot connect to I:/УЧЁБА и Документы/Git_projects/PlayerFSM/player/src/wave.asdb database
+#  Simulation has been stopped

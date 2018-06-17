@@ -1,4 +1,4 @@
-Active-HDL 9.1.2353.4205  2017-01-08 15:48:42
+Active-HDL 9.1.2353.4205  2018-06-17 10:50:13
 
 Elaboration top modules:
 Architecture                  TB_ARCHITECTURE(player_tb)
@@ -26,3 +26,7 @@ ieee                        | Standard IEEE packages library
 player                      | None
 std                         | Standard VHDL library
 ----------------------------------------------------------------------------------------------
+
+
+Simulation Options: asim -O5 +access +r +m+player_tb player_tb TB_ARCHITECTURE
+

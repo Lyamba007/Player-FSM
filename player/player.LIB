@@ -1,43 +1,43 @@
-timestamp=1482956456005
+timestamp=1529219741310
 
 [player]
-A/workmode=21|./src/player_beh.vhd|8|1*594737
-BinI32/workmode=3*129555
+A/workmode=21|./src/player_beh.vhd|8|1*604129
+BinI32/workmode=3*131587
 I=0*539
 I/workmode=0*124993
 M=11|0|v98|1482237070279|./src/player_beh.vhd|0*200*0xa7fd677d07f48058d7761cbd5dcd07bf65e7499d|0*462*0xab32bc1a2daf049573e14469f634e0e6
-M/workmode=21|0|v98|1482956455249|./src/player_beh.vhd|0*123338*0xa05ed40903c095eaa33a27b6f4157bfdf957aef7|0*124904*0xb33770ff1c10522f9491560174ac8e6c
+M/workmode=21|0|v98|1529219734951|./src/player_beh.vhd|0*123338*0xa05ed40903c095eaa33a27b6f4157bfdf957aef7|0*124904*0xb33770ff1c10522f9491560174ac8e6c
 R=./src/player_beh.vhd|2
 Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
 Version/workmode=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
 
 [player_tb]
-A/tb_architecture=A/TB_ARCHITECTURE 21|./src/TestBench/player_TB.vhd|9|1*596543
-BinI32/tb_architecture=3*130868
+A/tb_architecture=A/TB_ARCHITECTURE 21|./src/TestBench/player_TB.vhd|9|1*605935
+BinI32/tb_architecture=3*132900
 I=0*2210
-I/tb_architecture=I/TB_ARCHITECTURE 0*127059
+I/tb_architecture=I/TB_ARCHITECTURE 0*128124
 M=11|0|v98|1482237100143|./src/TestBench/player_TB.vhd|0*1953*0xa725a9c0e243ed984aabadb3f0227154cf49537c|0*2121*0xab32bc1a2daf049573e14469f634e0e6
-M/tb_architecture=M/TB_ARCHITECTURE 21|0|v98|1482956455730|./src/TestBench/player_TB.vhd|0*126167*0xd7feb9759d190dfd14bfe9700630b3160f96c673|0*126951*0xb33770ff1c10522f9491560174ac8e6c
+M/tb_architecture=M/TB_ARCHITECTURE 21|0|v98|1529219740991|./src/TestBench/player_TB.vhd|0*127232*0xc97c30b895d9809c6a6c9661a02a8e7c8a7494ad|0*128016*0xb33770ff1c10522f9491560174ac8e6c
 R=./src/TestBench/player_TB.vhd|6
 Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
 Version/tb_architecture=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
 
 [testbench_for_player]
 Configures=player_tb.TB_ARCHITECTURE
-E=1*599025
-I=0*123170
-M=2|0|v98|1482956455746|./src/TestBench/player_TB.vhd|0*122792*0x081e006ebf9d30fc52a8ca446d23f3ae0f1591b8|0*123058*0xb33770ff1c10522f9491560174ac8e6c
-R=./src/TestBench/player_TB.vhd|79
+E=1*608417
+I=0*128675
+M=2|0|v98|1529219741065|./src/TestBench/player_TB.vhd|0*128297*0x66cc76aa13bb813b53c29af9cea97957225127a2|0*128563*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/TestBench/player_TB.vhd|77
 Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
 
 [~A]
-ModifyID=1651
+ModifyID=1674
 Version=73
 
 [~MFT]
-0=814|0player.mgf|127059|122785
-1=806|1player.mgf|599025|594737
-3=487|3player.mgf|130868|129555
+0=825|0player.mgf|128675|124228
+1=813|1player.mgf|608417|599025
+3=493|3player.mgf|132900|131587
 
 [~U]
 player=11|0*0|
